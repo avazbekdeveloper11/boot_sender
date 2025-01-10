@@ -1,0 +1,78 @@
+PODS:
+  - battery_plus (1.0.0):
+    - Flutter
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - smart_auth (0.0.1):
+    - Flutter
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - battery_plus (from `.symlinks/plugins/battery_plus/ios`)
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - smart_auth (from `.symlinks/plugins/smart_auth/ios`)
+  - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+EXTERNAL SOURCES:
+  battery_plus:
+    :path: ".symlinks/plugins/battery_plus/ios"
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  smart_auth:
+    :path: ".symlinks/plugins/smart_auth/ios"
+  sqflite_darwin:
+    :path: ".symlinks/plugins/sqflite_darwin/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  battery_plus: 34f72fa2afeeea83bbae306c72a25828d3ec727a
+  device_info_plus: c6fb39579d0f423935b0c9ce7ee2f44b71b9fce6
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_local_notifications: 4cde75091f6327eb8517fa068a0a5950212d2086
+  package_info_plus: c0502532a26c7662a62a356cebe2692ec5fe4ec4
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  share_plus: 8b6f8b3447e494cca5317c8c3073de39b3600d1f
+  smart_auth: 4bedbc118723912d0e45a07e8ab34039c19e04f2
+  sqflite_darwin: 5a7236e3b501866c1c9befc6771dfd73ffb8702d
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
